@@ -1,0 +1,80 @@
+[08-Jul-2021 16:10:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[08-Jul-2021 16:10:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 16:10:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[08-Jul-2021 16:10:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:07:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[08-Jul-2021 17:07:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:08:04 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[08-Jul-2021 17:09:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[08-Jul-2021 17:09:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:15:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[08-Jul-2021 17:15:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:28:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[08-Jul-2021 17:28:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:28:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[08-Jul-2021 17:28:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:49:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[08-Jul-2021 17:49:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:53:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[08-Jul-2021 17:53:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:03:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[08-Jul-2021 18:03:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:07:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[08-Jul-2021 18:07:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:38 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[08-Jul-2021 21:01:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[08-Jul-2021 21:01:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 21:03:33 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[09-Jul-2021 14:16:45 UTC] PHP Notice:  Undefined index: MM_UserID in /home/oafbosdqx6s4/public_html/includes/function.php on line 116
+[09-Jul-2021 14:16:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[09-Jul-2021 14:16:45 UTC] PHP Notice:  Undefined index: MM_UserGroup in /home/oafbosdqx6s4/public_html/includes/pos_menubar.php on line 5
+[09-Jul-2021 14:16:45 UTC] PHP Notice:  Undefined index: MM_UserID in /home/oafbosdqx6s4/public_html/includes/pos_menubar.php on line 6
+[09-Jul-2021 14:16:45 UTC] PHP Notice:  Undefined index: MM_UserID in /home/oafbosdqx6s4/public_html/includes/function.php on line 341
+[09-Jul-2021 14:16:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[09-Jul-2021 14:16:45 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[09-Jul-2021 14:35:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[09-Jul-2021 14:35:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[09-Jul-2021 18:30:47 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[09-Jul-2021 18:30:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[09-Jul-2021 18:30:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[09-Jul-2021 18:31:09 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[09-Jul-2021 18:32:23 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[09-Jul-2021 18:32:24 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[09-Jul-2021 18:32:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[09-Jul-2021 18:32:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 15:25:09 UTC] PHP Notice:  Undefined index: MM_UserID in /home/oafbosdqx6s4/public_html/includes/function.php on line 116
+[12-Jul-2021 15:25:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[12-Jul-2021 15:25:09 UTC] PHP Notice:  Undefined index: MM_UserGroup in /home/oafbosdqx6s4/public_html/includes/pos_menubar.php on line 5
+[12-Jul-2021 15:25:09 UTC] PHP Notice:  Undefined index: MM_UserID in /home/oafbosdqx6s4/public_html/includes/pos_menubar.php on line 6
+[12-Jul-2021 15:25:09 UTC] PHP Notice:  Undefined index: MM_UserID in /home/oafbosdqx6s4/public_html/includes/function.php on line 341
+[12-Jul-2021 15:25:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 15:25:10 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[12-Jul-2021 15:28:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[12-Jul-2021 15:28:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:31:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[12-Jul-2021 17:31:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:32:32 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[12-Jul-2021 18:32:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[12-Jul-2021 18:32:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:34:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[12-Jul-2021 18:34:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:11:28 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[13-Jul-2021 01:11:34 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[13-Jul-2021 01:13:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[13-Jul-2021 01:13:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[14-Jul-2021 17:42:09 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[14-Jul-2021 17:42:13 UTC] PHP Notice:  Undefined index: MM_UserID in /home/oafbosdqx6s4/public_html/includes/function.php on line 116
+[14-Jul-2021 17:42:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[14-Jul-2021 17:42:13 UTC] PHP Notice:  Undefined index: MM_UserGroup in /home/oafbosdqx6s4/public_html/includes/pos_menubar.php on line 5
+[14-Jul-2021 17:42:13 UTC] PHP Notice:  Undefined index: MM_UserID in /home/oafbosdqx6s4/public_html/includes/pos_menubar.php on line 6
+[14-Jul-2021 17:42:13 UTC] PHP Notice:  Undefined index: MM_UserID in /home/oafbosdqx6s4/public_html/includes/function.php on line 341
+[14-Jul-2021 17:42:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[14-Jul-2021 17:42:13 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[14-Jul-2021 17:42:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[14-Jul-2021 17:42:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[14-Jul-2021 17:42:31 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[14-Jul-2021 17:42:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[14-Jul-2021 17:42:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[14-Jul-2021 17:47:33 UTC] PHP Notice:  Undefined variable: mensaje in /home/oafbosdqx6s4/public_html/includes/loginForm.php on line 8
+[14-Jul-2021 17:47:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/oafbosdqx6s4/public_html/pos/index.php on line 4
+[14-Jul-2021 17:47:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7

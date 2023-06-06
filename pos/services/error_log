@@ -1,0 +1,501 @@
+[08-Jul-2021 16:11:12 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 16:11:12 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 16:11:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 16:11:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 16:11:57 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 16:11:57 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 16:11:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 16:12:16 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 16:12:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:07:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:09:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:14:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:14:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:14:39 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 17:14:39 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:15:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:15:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:15:31 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 17:15:31 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:15:47 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 17:15:47 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:15:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:15:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:15:49 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 17:15:49 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:16:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:16:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:16:12 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 17:16:12 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:16:23 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 17:16:23 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:16:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:16:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:16:24 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 17:16:24 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:17:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:17:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:22:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:22:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:22:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:22:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:22:43 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:22:43 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:22:44 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Felicidades+has+recibido+un+RegaloMovil+de+%24+100.00+por+parte+de+Empresa+Patito+para+que+lo+utilices+en%3A+1): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 971
+[08-Jul-2021 17:22:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:28:49 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 17:28:49 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:28:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:28:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:28:51 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 17:28:51 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:28:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:29:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:29:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:29:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:29:08 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:29:08 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:29:09 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Felicidades+has+recibido+un+RegaloMovil+de+%24+100.00+por+parte+de+Patitos+2+para+que+lo+utilices+en%3A+1): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 971
+[08-Jul-2021 17:29:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:29:33 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 17:29:33 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:29:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:29:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:29:35 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 17:29:35 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:29:35 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:29:54 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:29:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:29:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:29:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:29:57 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1013
+[08-Jul-2021 17:29:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:29:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:33:52 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 17:33:52 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:33:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:33:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:33:53 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 17:33:53 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:33:53 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:34:03 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:34:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:34:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:34:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:34:06 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1013
+[08-Jul-2021 17:34:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:34:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:34:07 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:34:07 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:34:07 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[08-Jul-2021 17:34:08 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+30.00+en+RegaloMovil.+El+folio+de+compra+es%3A+419507): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 971
+[08-Jul-2021 17:34:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:35:09 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:35:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:35:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:35:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:35:11 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1013
+[08-Jul-2021 17:35:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:35:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:35:13 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:35:13 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:35:13 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[08-Jul-2021 17:35:14 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+10.00+en+RegaloMovil.+El+folio+de+compra+es%3A+098674): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 971
+[08-Jul-2021 17:35:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:43:43 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:43:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:43:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:46:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:46:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:46:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:46:55 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:46:55 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:46:56 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Felicidades+has+recibido+un+RegaloMovil+de+%24+100.00+por+parte+de+Patitos+3+para+que+lo+utilices+en%3A+1): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 971
+[08-Jul-2021 17:46:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:15 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:47:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:17 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1013
+[08-Jul-2021 17:47:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:19 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:47:19 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:47:19 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[08-Jul-2021 17:47:20 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+80.00+en+RegaloMovil.+El+folio+de+compra+es%3A+841657): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 971
+[08-Jul-2021 17:47:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:34 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 17:47:34 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:47:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:35 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 17:47:35 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:47:35 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:47:44 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:47:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:46 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1013
+[08-Jul-2021 17:47:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:47:48 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:47:48 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:47:48 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[08-Jul-2021 17:47:49 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+80.00+en+RegaloMovil.+El+folio+de+compra+es%3A+685910): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 971
+[08-Jul-2021 17:47:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:49:55 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:49:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:49:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:49:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:49:57 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1013
+[08-Jul-2021 17:49:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:49:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:49:59 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:49:59 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:49:59 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[08-Jul-2021 17:50:00 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+10.00+en+RegaloMovil.+El+folio+de+compra+es%3A+164309): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 971
+[08-Jul-2021 17:50:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:53:28 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:53:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:53:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:53:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:53:30 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1013
+[08-Jul-2021 17:53:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:53:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:53:32 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:53:32 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:53:32 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[08-Jul-2021 17:53:33 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+15.00+en+RegaloMovil.+El+folio+de+compra+es%3A+547813): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 971
+[08-Jul-2021 17:53:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:54:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:56:33 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 17:56:33 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:56:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:56:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:56:34 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 17:56:34 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:56:34 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:56:50 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:56:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:56:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:56:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:56:52 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1013
+[08-Jul-2021 17:56:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:56:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:56:54 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:56:54 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:56:54 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[08-Jul-2021 17:56:55 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+10.00+en+RegaloMovil.+El+folio+de+compra+es%3A+698734): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 971
+[08-Jul-2021 17:56:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:57:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:57:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:57:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:57:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:58:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:58:11 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 17:58:11 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 17:58:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:58:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 17:58:13 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 17:58:13 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 17:58:13 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 18:03:27 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 18:03:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:03:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:03:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:03:29 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1014
+[08-Jul-2021 18:03:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:03:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:03:31 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1069
+[08-Jul-2021 18:03:31 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1069
+[08-Jul-2021 18:03:31 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[08-Jul-2021 18:03:32 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+10.00+en+RegaloMovil.+El+folio+de+compra+es%3A+548176): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 972
+[08-Jul-2021 18:03:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:03:33 UTC] PHP Warning:  include(../../includes/pos_confirmation_interface.php/548176): failed to open stream: No such file or directory in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 30
+[08-Jul-2021 18:03:33 UTC] PHP Warning:  include(): Failed opening '../../includes/pos_confirmation_interface.php/548176' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 30
+[08-Jul-2021 18:07:29 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 18:07:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:07:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:07:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:07:31 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1013
+[08-Jul-2021 18:07:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:07:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:07:33 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 18:07:33 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 18:07:33 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[08-Jul-2021 18:07:34 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+20.00+en+RegaloMovil.+El+folio+de+compra+es%3A+310678): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 971
+[08-Jul-2021 18:07:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:07:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:08:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:08:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:08:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:08:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:08:15 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 18:08:15 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 18:08:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:08:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:08:17 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 18:08:17 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 18:08:17 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1068
+[08-Jul-2021 18:12:22 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 18:12:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:25 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1015
+[08-Jul-2021 18:12:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:26 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 18:12:26 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 18:12:26 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[08-Jul-2021 18:12:27 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+10.00+en+RegaloMovil.+El+folio+de+compra+es%3A+285316): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 973
+[08-Jul-2021 18:12:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:56 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 18:12:56 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 18:12:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:12:58 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 18:12:58 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 18:12:58 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 18:13:06 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 18:13:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:08 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1015
+[08-Jul-2021 18:13:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:10 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 18:13:10 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 18:13:10 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[08-Jul-2021 18:13:11 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+200.00+en+RegaloMovil.+El+folio+de+compra+es%3A+238971): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 973
+[08-Jul-2021 18:13:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:24 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 18:13:24 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 18:13:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 18:13:26 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 18:13:26 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 18:13:26 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 21:02:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 21:02:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 21:02:23 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 21:02:23 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 21:02:23 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 21:02:43 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 21:02:43 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 21:02:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 21:02:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 21:02:45 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 21:02:45 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 21:02:45 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 21:03:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 21:03:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 21:03:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 21:03:14 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 21:03:14 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 21:03:15 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5583803241&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Felicidades+has+recibido+un+RegaloMovil+de+%24+100.00+por+parte+de+EMpresa+Gansitos+para+que+lo+utilices+en%3A+1): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 973
+[08-Jul-2021 21:03:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 21:03:23 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[08-Jul-2021 21:03:23 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[08-Jul-2021 21:03:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 21:03:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[08-Jul-2021 21:03:24 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[08-Jul-2021 21:03:24 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[08-Jul-2021 21:03:24 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:32:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:32:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:32:19 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[12-Jul-2021 17:32:19 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:33:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:09 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:33:09 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:33:10 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5512345678&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Felicidades+has+recibido+un+RegaloMovil+de+%24+200.00+por+parte+de+Patito+para+que+lo+utilices+en%3A+Patito): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 973
+[12-Jul-2021 17:33:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:25 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[12-Jul-2021 17:33:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:27 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1015
+[12-Jul-2021 17:33:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:29 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:33:29 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:33:29 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[12-Jul-2021 17:33:30 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5512345678&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+50.00+en+RegaloMovil.+El+folio+de+compra+es%3A+697250): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 973
+[12-Jul-2021 17:33:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:47 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[12-Jul-2021 17:33:47 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[12-Jul-2021 17:33:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:33:49 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[12-Jul-2021 17:33:49 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:33:49 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:34:31 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[12-Jul-2021 17:34:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:34:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:34:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:34:34 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1015
+[12-Jul-2021 17:34:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:34:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:34:35 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:34:35 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:34:35 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[12-Jul-2021 17:34:36 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5512345678&amp;smscid=Iusacell&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+50.00+en+RegaloMovil.+El+folio+de+compra+es%3A+208769): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 973
+[12-Jul-2021 17:34:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:34:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:34:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:34:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:34:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:34:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:38:06 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[12-Jul-2021 17:38:06 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[12-Jul-2021 17:38:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:38:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:38:08 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[12-Jul-2021 17:38:08 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:38:08 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:40:10 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[12-Jul-2021 17:40:10 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[12-Jul-2021 17:40:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:40:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:40:11 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[12-Jul-2021 17:40:11 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:40:11 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:52:49 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[12-Jul-2021 17:52:49 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[12-Jul-2021 17:52:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:52:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 17:52:51 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[12-Jul-2021 17:52:51 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 17:52:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 18:33:48 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[12-Jul-2021 18:33:48 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[12-Jul-2021 18:33:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:33:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:33:50 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[12-Jul-2021 18:33:50 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 18:34:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:34:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:34:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:34:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:34:22 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 18:34:22 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 18:34:23 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5510091165&amp;smscid=Telcel&amp;sender=27362&amp;client_id=bnm3x&amp;content=Felicidades+has+recibido+un+RegaloMovil+de+%24+100.00+por+parte+de+Yo+mismo+para+que+lo+utilices+en%3A): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 973
+[12-Jul-2021 18:34:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:34:49 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[12-Jul-2021 18:34:49 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[12-Jul-2021 18:34:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:34:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:34:50 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[12-Jul-2021 18:34:50 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 18:34:50 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 18:34:59 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[12-Jul-2021 18:34:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:01 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1015
+[12-Jul-2021 18:35:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:03 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 18:35:03 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 18:35:03 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[12-Jul-2021 18:35:04 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5510091165&amp;smscid=Telcel&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+60.00+en+RegaloMovil.+El+folio+de+compra+es%3A+584716): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 973
+[12-Jul-2021 18:35:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:26 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[12-Jul-2021 18:35:26 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[12-Jul-2021 18:35:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[12-Jul-2021 18:35:27 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[12-Jul-2021 18:35:27 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[12-Jul-2021 18:35:27 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[13-Jul-2021 01:14:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:14:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:14:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:14:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:14:16 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[13-Jul-2021 01:14:16 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[13-Jul-2021 01:14:17 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5528995622&amp;smscid=Telcel&amp;sender=27362&amp;client_id=bnm3x&amp;content=Felicidades+has+recibido+un+RegaloMovil+de+%24+500.00+por+parte+de+Tom+para+que+lo+utilices+en%3A+Patito): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 973
+[13-Jul-2021 01:14:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:14:37 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[13-Jul-2021 01:14:37 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[13-Jul-2021 01:14:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:14:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:14:39 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[13-Jul-2021 01:14:39 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[13-Jul-2021 01:14:39 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[13-Jul-2021 01:15:52 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[13-Jul-2021 01:15:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:15:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:15:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:15:54 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1015
+[13-Jul-2021 01:15:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:15:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:15:55 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[13-Jul-2021 01:15:55 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[13-Jul-2021 01:15:55 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[13-Jul-2021 01:15:56 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5528995622&amp;smscid=Telcel&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+325.00+en+RegaloMovil.+El+folio+de+compra+es%3A+063472): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 973
+[13-Jul-2021 01:15:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:16:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:16:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:16:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:16:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:16:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:16:47 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[13-Jul-2021 01:16:47 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[13-Jul-2021 01:16:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:16:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:16:49 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[13-Jul-2021 01:16:49 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[13-Jul-2021 01:16:49 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[13-Jul-2021 01:17:43 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[13-Jul-2021 01:17:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:17:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:17:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:17:45 UTC] PHP Notice:  Undefined variable: id_campana in /home/oafbosdqx6s4/public_html/includes/function.php on line 1015
+[13-Jul-2021 01:17:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:17:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:17:46 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[13-Jul-2021 01:17:46 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[13-Jul-2021 01:17:46 UTC] PHP Notice:  Undefined variable: idCampana in /home/oafbosdqx6s4/public_html/includes/function.php on line 285
+[13-Jul-2021 01:17:47 UTC] PHP Warning:  file_get_contents(http://sms.ideassms.com:8080/smp/servlet/SendTextMessage?msisdn=5528995622&amp;smscid=Telcel&amp;sender=27362&amp;client_id=bnm3x&amp;content=Se+esta+haciendo+un+cargo+por+%24+75.00+en+RegaloMovil.+El+folio+de+compra+es%3A+820951): failed to open stream: Connection refused in /home/oafbosdqx6s4/public_html/includes/function.php on line 973
+[13-Jul-2021 01:17:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:18:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:18:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:18:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:18:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:18:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:18:23 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[13-Jul-2021 01:18:23 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[13-Jul-2021 01:18:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:18:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[13-Jul-2021 01:18:25 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[13-Jul-2021 01:18:25 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[13-Jul-2021 01:18:25 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
+[14-Jul-2021 17:43:06 UTC] PHP Notice:  Undefined index: monto in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 5
+[14-Jul-2021 17:43:06 UTC] PHP Notice:  Undefined index: nombre in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 8
+[14-Jul-2021 17:43:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[14-Jul-2021 17:43:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/oafbosdqx6s4/public_html/includes/bdd_operation.php on line 7
+[14-Jul-2021 17:43:08 UTC] PHP Notice:  Use of undefined constant pesos - assumed 'pesos' in /home/oafbosdqx6s4/public_html/pos/services/srv_sendPeticion.php on line 39
+[14-Jul-2021 17:43:08 UTC] PHP Notice:  Undefined variable: final in /home/oafbosdqx6s4/public_html/includes/function.php on line 1070
