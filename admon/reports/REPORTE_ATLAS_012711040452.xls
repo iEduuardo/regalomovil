@@ -1,0 +1,204 @@
+<table colspan='0' border='0'>
+<tr><td colspan="10" class="reportXLS"><a href="#" onclick="javascript:getReporteXLS();" class="btn_reportsXLS">Reporte XLS</a></td></tr>
+<tr><td class="reportRowTitle">Registro</td><td class="reportRowTitle"><a class="btn_reportsOrder" href="javascript:ordenarResultado('STORE_NUMBER');"> No. Vendedor</a></td><td class="reportRowTitle"><a class="btn_reportsOrder" href="javascript:ordenarResultado('TERMINALID');">Compra</a></td><td class="reportRowTitle"><a class="btn_reportsOrder" href="javascript:ordenarResultado('AUTH_DATETIME');">Fecha</a></td><td class="reportRowTitle">Hora</td><td class="reportRowTitle"><a class="btn_reportsOrder" href="javascript:ordenarResultado('RRNO');">Actividad</a></td><td class="reportRowTitle">Tarjeta</td><td class="reportRowTitle"><a class="btn_reportsOrder" href="javascript:ordenarResultado('AMOUNT');">Monto</a></td></tr>
+<tr><td class='separador' colspan='10'></td></tr>
+<tr>
+<td class="reportRow">1</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Activaci&oacute;n </td>
+<td class="reportRow">'100001157583</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">2</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Desactivaci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">3</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Activaci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">4</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Activaci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">5</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Activaci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">6</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">$ 12,000.00</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Redenci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+200</td>
+</tr>
+<tr>
+<td class="reportRow">7</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Activaci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">8</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">$ 12,000.00</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Redenci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+200</td>
+</tr>
+<tr>
+<td class="reportRow">9</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Activaci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">10</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Activaci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">11</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Redenci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+200</td>
+</tr>
+<tr>
+<td class="reportRow">12</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Desactivaci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">13</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Activaci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">14</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Consulta </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">15</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Consulta </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">16</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Desactivaci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr>
+<td class="reportRow">17</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Redenci&oacute;n </td>
+<td class="reportRow">'100001157583</td>
+<td class="reportRow">
+200</td>
+</tr>
+<tr>
+<td class="reportRow">18</td>
+<td class="reportRow">Jorge Eduardo Pineda(admin)</td>
+<td class="reportRow">0</td>
+<td class="reportRow">2010-12-29</td>
+<td class="reportRow"> 16:44:18</td>
+<td class="reportRow">Desactivaci&oacute;n </td>
+<td class="reportRow">'100002133724</td>
+<td class="reportRow">
+0</td>
+</tr>
+<tr><td class="reportRowTitle" align="center">19</td><td class="reportRowTitle">&nbsp;</td><td class="reportRowTitle" align="center">$ 0.00</td><td class="reportRowTitle">&nbsp;</td><td class="reportRowTitle">&nbsp;</td><td class="reportRowTitle" align="center"> activaciones</td><td class="reportRowTitle">&nbsp;</td><td class="reportRowTitle">$ 800.00</td></tr>
+</table>

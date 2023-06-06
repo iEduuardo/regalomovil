@@ -1,0 +1,107 @@
+ul.menu {
+list-style-type:none;
+width:auto;
+position:relative;
+display:block;
+height:33px;
+font-size:.8em;
+background:url(images/bg.png) repeat-x top left;
+font-family:Verdana,Helvetica,Arial,sans-serif;
+border-bottom:1px solid #002071;
+margin:0;
+padding:0;
+}
+
+ul.menu li {
+display:block;
+float:left;
+margin:0;
+padding:0;
+}
+
+ul.menu li a {
+	background-image:url(../images/arrows_forward.png);
+	background-position:7px 12px;
+	background-repeat:no-repeat;
+	float:left;
+	color:#FFFFFF;
+	font-weight:bold;
+	text-decoration:none;
+	height:24px;
+	padding:9px 20px 0;
+	font-weight:normal;
+}
+
+ul.menu li a:hover{
+	color:#fff;
+	background-image:url(../images/arrows_forward_on.png);
+	background-position:7px 12px;
+	background-repeat:no-repeat;
+	text-decoration:none;
+}
+
+.current {
+	color:#fff;
+	background-color:#F46D00;
+	background-image:url(../images/arrows_forward_on.png);
+	background-position:7px 12px;
+	background-repeat:no-repeat;
+	text-decoration:none;
+}
+
+ul.menu .current a {
+color:#fff;
+font-weight:700;
+}
+
+/*red*/
+ul.menu.red{
+background-color:#ee1b22 ; /*ff9a00*/
+}
+ul.menu.red li a:hover, .menu.red li.current {
+background-color:#F46D00;
+}
+
+a.none_deco:link, a.none_deco:visited, a.none_deco:active {
+	background-image:none;
+	float:left;
+	color:#FFFFFF;
+	font-weight:bold;
+	text-decoration:none;
+	height:24px;
+	padding:6px 20px 0;
+	font-weight:normal;
+}
+
+a.none_deco:hover {
+	background-image:none;
+	float:left;
+	color:#FFFFFF;
+	font-weight:bold;
+	text-decoration:none;
+	height:24px;
+	padding:6px 20px 0;
+	font-weight:normal;
+}
+
+/*------------------------------------------------------------------------------------*/
+
+ul.menuReports {
+list-style-type:none;
+width:auto;
+/*position:relative;*/
+display:block;
+height:18px;
+font-size:.8em;
+font-family:Verdana,Helvetica,Arial,sans-serif;
+border-bottom:1px solid #002071;
+margin:0;
+padding:0;
+}
+
+ul.menuReports li {
+display:block;
+float:left;
+margin:0;
+padding:0;
+}

@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+#posInterfase{
+	clear:all;
+	}
+
+#posInterfase #posMessages{
+	height:55px;
+	text-align:center;
+	font-size:14px;
+	color:#000;
+	}
+
+#posInterfase .fieldTitle{
+	color:#069;
+	font-size:14;
+	font-weight:bold;
+	}
+	
+#posInterfase .pos_inputText{
+	font-size:16px;
+	}
+
+#posInterfase .btn_calculadora{
+	width:65px;
+	height:65px;
+	font:Verdana, Geneva, sans-serif;
+	font-size:20px;
+	padding:5px;
+	font-weight:bold;
+	color:#069;
+	}
+
+#posInterfase .tecla_pos{
+	display:block;
+	border:0;
+	margin:0 auto;
+	text-align:center;
+	height:68px;
+	width:68px;
+	background-image:url(../images/pos_tecla_on.png);
+	background-repeat:no-repeat;
+	text-decoration: none;
+	font-size:14px;
+	font-weight:bold;
+	color:#fff;
+	}
+
+#posInterfase .btn_pos{
+	display:block;
+	border:0;
+	margin:0 auto;
+	text-align:center;
+	height:40px;
+	width:120px;
+	background-image:url(../images/pos_btn_on.png);
+	background-repeat:no-repeat;
+	text-decoration: none;
+	font-size:14px;
+	font-weight:bold;
+	color:#fff;
+	}
+
+
+
+
+#posInterfase  a.btn_pos:link, #posInterfase  a.btn_pos:visited,  #posInterfase  a.btn_pos:active{
+	display:block;
+	margin:0 auto;
+	text-align:center;
+	padding-top:10px;
+	height:30px;
+	width:120px;
+	background-image:url(../images/pos_btn_on.png);
+	background-repeat:no-repeat;
+	text-decoration: none;
+	font-size:14px;
+	font-weight:bold;
+	color:#fff;
+	}
+	
+#posInterfase a.btn_pos:hover {
+	background-image:url(../images/pos_btn_over.png);
+	color:#036;	
+	}
+	
+#posInterfase  a.tecla_pos:link, #posInterfase  a.tecla_pos:visited,  #posInterfase  a.tecla_pos:active{
+	display:block;
+	margin:0 auto;
+	text-align:center;
+	padding-top:20px;
+	height:45px;
+	width:65px;
+	background-image:url(../images/pos_tecla_on.png);
+	background-repeat:no-repeat;
+	text-decoration: none;
+	font-size:14px;
+	font-weight:bold;
+	color:#fff;
+	}
+	
+#posInterfase a.tecla_pos:hover {
+	background-image:url(../images/pos_tecla_over.png);
+	color:#036;	
+	}
+	
+#posInterfase #areaDeTrabajo{
+	width:350px;
+	height:350px;
+	}
